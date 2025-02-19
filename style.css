@@ -109,7 +109,7 @@
   }
   .btns button:first-child:hover{
     background: white;
-    color: black;
+    color: rgb(60, 0, 255);
   }
   .center .btns button:last-child{
     background: white;
